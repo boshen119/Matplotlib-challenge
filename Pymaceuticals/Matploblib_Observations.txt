@@ -1,0 +1,7 @@
+Three things I observed about the tumor drug tests by looking at the graphs:
+
+1) The drugs that seemed to have a positive outcome on mice with tumors were Capomulin and Ramicane. Looking at at the Tumor Response to Treatment graph, you can see that over time, the test subjects had less tumors during the period, while the test subjects on the other 6 drugs and Placebo grew more tumors. The other drugs that did not do well had relatively no affect on the the tumors as they number of tumors grew on trend with the Placebo.
+
+2) Capomulin and Ramicane were both able to keep the metastatic sites from spreading initially. However, after the 20-day mark, the cancer eventually still spread, but we can confidently say the spreading was significantly minimized compared to the other drugs and Placebo. In fact, the other drugs all performed better than the Placebo test in minimizing the spread of tumors.
+
+3) For the number of survivors, Capomulin saw a constant decline after 10 days of testing while Ramicane held steady. However, towards the last 15 days of the test, subjects on Ramicane saw a dip in survival rate, so concluding the test, we can say Capomulin performed the best.
